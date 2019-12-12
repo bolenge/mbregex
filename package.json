@@ -1,0 +1,26 @@
+{
+  "name": "mbregex",
+  "version": "0.1.0",
+  "description": "Librairie Javascript contenant des regex de plusieurs cas qu'on peut rencontrer (url,email,numéro telephone,...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "regex",
+    "regex",
+    "email",
+    "regex",
+    "url",
+    "regex",
+    "telephone",
+    "regex",
+    "number",
+    "email",
+    "number",
+    "url",
+    "http"
+  ],
+  "author": "Don de Dieu Bolenge",
+  "license": "ISC"
+}
