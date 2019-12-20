@@ -1,6 +1,6 @@
 {
   "name": "mbregex",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Librairie Javascript contenant des regex de plusieurs cas qu'on peut rencontrer (url,email,numéro telephone,...)",
   "main": "index.js",
   "scripts": {
